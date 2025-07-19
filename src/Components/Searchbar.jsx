@@ -2,7 +2,7 @@ import React from "react";
 
 function Searchbar() {
   return (
-    <div className="flex gap-4 my-15 justify-center">
+    <div className="flex gap-4 my-15 justify-center px-10">
       <select className="w-65 py-4 pl-5 bg-zinc-200 font-semibold rounded-md">
         <option value="" disabled selected hidden>
           Job Role

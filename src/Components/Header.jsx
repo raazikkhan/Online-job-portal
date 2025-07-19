@@ -7,7 +7,7 @@ function Header() {
         <h1 className="text-4xl font-bold">
           Your ideal job awaits, start the search
         </h1>
-        <p className="text-xl">Get Latest job opening that best suits you</p>
+        <p className="text-xl">Get Latest job opening that best suits you !</p>
       </div>
     </>
   );
